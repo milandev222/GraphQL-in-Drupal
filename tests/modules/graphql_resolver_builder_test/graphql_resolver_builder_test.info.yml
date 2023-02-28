@@ -1,0 +1,5 @@
+type: module
+name: GraphQL Resolver Builder Test
+description: Tests the graphql resolver builder functionality.
+package: Testing
+hidden: TRUE
